@@ -1,0 +1,50 @@
+{
+  "Diogo": [
+    {"name": "0 Diogo", "link": "xx"},
+    {"name": "BodyTrack", "link": "xx"},
+    {"name": "ReadQueue", "link": "xx"},
+    {"name": "Reviews", "link": "xx"},
+    {"name": "2 Money", "link": "xx"},
+    {"name": "Budget", "link": "xx"},
+    {"name": "Food Plan", "link": "xx"},
+  ],
+  "Reviews": [
+    {"name": "4h workweek", "link": "xx"},
+  ],
+  "Utilities": [
+    {"name": "Assinar CC", "link": "xx"},
+    {"name": "DLPO", "link": "xx"},
+  ],
+  "FAP": [
+      {"name": "1 FAP", "link": "xx"},
+      {"name": "PortalFAP", "link": "xx"},
+      {"name": "Groupwise", "link": "xx"},
+  ],
+  "GAL": [
+    {"name": "CAL GERAL", "link": "xx"},
+    {"name": "SITUACAO CAL", "link": "xx"},
+    {"name": "MapaGM", "link": "xx"},
+    {"name": "Folha de Transportes", "link": "xx"},
+    {"name": "Planeamento COVID", "link": "xx"},
+    {"name": "Planeamento COVID Alunos", "link": "xx"},
+    {"name": "Contactos", "link": "xx"},
+    {"name": "TAM (PortalFAP)", "link": "xx"},
+  ],
+  "internato": [
+      {"name": "COMEÇAR AQUI", "link": "xx"},
+      {"name": "Mapa Geral", "link": "xx"},
+      {"name": "Gestão Anomalias", "link": "xx"},
+      {"name": "Checklists", "link": "xx"},
+      {"name": "Verao 20", "link": "xx"},
+      {"name": "Plano 20/21", "link": "xx"},
+  ],
+  "CIAFA": [
+      {"name": "FIREFRONT DRIVE", "link": "xx"},
+      {"name": "Bitbucket firefront doc", "link": "xx"},
+  ],
+  "TEACH": [
+      {"name": "PROG", "link": "xx"},
+      {"name": "LMI", "link": "xx"},
+  ],
+  
+}
